@@ -13,7 +13,7 @@ composer install
 ## Instructions
 Review the Test, Controller, Services, Interfaces, AppServiceProvider.
 
-We will implement access layers. Before your proceed in creating your first CRUD you must understand how the implementation works. If you didn't follow the implementation pattern, I will delete your code. also, you will ordering 1pc chicken mcdo for each member of this project.
+We will implement access layers. Before proceeding in creating your first CRUD you must understand how the implementation works. If you didn't follow the implementation pattern, I will delete your code. also, you must order 1pc chicken mcdo for each member of this project.
 
 Don't make your code complicated. remove unnecessary the comments make your code clean as possible. If the code is not useful delete it.
 
