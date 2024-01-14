@@ -10,12 +10,12 @@ Welcome to this collaboration project. In this project, we will be creating an e
 :ballot_box_with_check: copy the repository: https://github.com/gokungbond/ecommerce_api.git <br>
 :ballot_box_with_check: composer install <br>
 <br>
-In terminal:<br>
-Database: <br>
+### In terminal:<br>###
+### Database: <br> ###
 :ballot_box_with_check: copy .env.example .env <br>
 :ballot_box_with_check: create a database. Ex. ecommerce <br>
 <br>
-Test Database: <br>
+### Test Database: <br> ###
 :ballot_box_with_check: copy .env.example .env.testing <br>
 :ballot_box_with_check: create a database_testing. Ex. ecommerce_testing for the testing <br>
 
