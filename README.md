@@ -9,10 +9,10 @@ XAMPP/MySQL <br>
 ## Installation
 copy the repository: https://github.com/gokungbond/ecommerce_api.git <br>
 composer install <br>
-In terminal:
+In terminal:<br>
 copy .env.example .env <br>
-copy .env.example .env.testing 
-create a database_testing. Ex. ecommerce_testing for the testing
+copy .env.example .env.testing <br>
+create a database_testing. Ex. ecommerce_testing for the testing <br>
 
 ## Instructions
 Review the Test, Controller, Services, Interfaces, AppServiceProvider.
