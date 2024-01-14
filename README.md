@@ -27,7 +27,7 @@ We will implement access layers. Before proceeding in creating your first CRUD y
 
 Don't make your code complicated. remove unnecessary the comments make your code clean as possible. **If the code is not useful delete it.**
 
-After creating your CRUD or any business process make sure to provide testing. *Always remember, good code is judged by its testing.* **Always do testing.**
+After creating your CRUD or any business process make sure to provide testing. *A good code always have testing. Always do testing.*
 
 ## :rocket: Project Sponsors
 [Angelo Calualhatian (UI/UX) Project Layout](https://www.facebook.com/angelo.calualhatian.5)
