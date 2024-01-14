@@ -1,5 +1,5 @@
 ## About This Project
-Welcome to this collaboration project. In this project, we will be creating an ecommerce website using Laravel 10 and Vue.js 3. This is the backend (API) of the ecommerce website. We will learning how to propery implement end-points and versioning.
+Welcome to this collaboration project. In this project, we will be creating an ecommerce website using Laravel 10 and Vue.js 3. This is the backend (API) of the ecommerce website. Implementing end-points for the SPA. Process payment, Track the delivery and Integrate payment gateways.
 
 ## Requirements
 PHP 8 <br>
