@@ -3,7 +3,7 @@ Welcome to this collaboration project. In this project, we will be creating an e
 
 ## :white_check_mark: Requirements
 :ballot_box_with_check: PHP 8 <br>
-:ballot_box_with_check:: Laravel 10 <br>
+:ballot_box_with_check: Laravel 10 <br>
 :ballot_box_with_check: XAMPP/MySQL <br>
 
 ## :memo: Installation
