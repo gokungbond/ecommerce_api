@@ -1,10 +1,10 @@
-## About This Project :rocket:
+:rocket: ## About This Project
 Welcome to this collaboration project. In this project, we will be creating an ecommerce website using Laravel 10 and Vue.js 3. This is the backend (API) of the ecommerce website. Implementing end-points for the SPA. Process payment, Track the delivery and Integrate payment gateways.
 
-## Requirements :rocket:
-PHP 8 <br>
-Laravel 10 <br>
-XAMPP/MySQL <br>
+:white_check_mark: ## Requirements :rocket:
+:white_check_mark: PHP 8 <br>
+:white_check_mark: Laravel 10 <br>
+:white_check_mark: XAMPP/MySQL <br>
 
 ## Installation :rocket:
 copy the repository: https://github.com/gokungbond/ecommerce_api.git <br>
