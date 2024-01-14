@@ -22,9 +22,10 @@ Test Database: <br>
 ## :memo:  Instructions
 :heavy_exclamation_mark: Review the Test, Controller, Services, Interfaces, AppServiceProvider.
 
-:heavy_exclamation_mark: We will implement access layers. Before proceeding in creating your first CRUD you must understand how the implementation works. If you didn't follow the implementation pattern, I will delete your code. also, you must order 1pc chicken mcdo :poultry_leg: for each member of this project.
+:heavy_exclamation_mark: | We will implement access layers. Before proceeding in creating your first CRUD you must understand how the implementation works. **If you didn't follow the implementation pattern, I will delete your code. also, you must order 1pc chicken mcdo :poultry_leg: for each member of this project.**
+ 
 
-:heavy_exclamation_mark: Don't make your code complicated. remove unnecessary the comments make your code clean as possible. If the code is not useful delete it.
+:heavy_exclamation_mark: Don't make your code complicated. remove unnecessary the comments make your code clean as possible. **If the code is not useful delete it.**
 
 :heavy_exclamation_mark: After creating your CRUD or any business process make sure to provide testing. Always remember, good code is judged by its testing. Always do testing.
 
