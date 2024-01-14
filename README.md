@@ -23,9 +23,9 @@ Test Database: <br>
 :heavy_exclamation_mark: Review the Test, Controller, Services, Interfaces, AppServiceProvider.
 
 :heavy_exclamation_mark: | 
-First Header  | Second Header
-------------- | -------------
-We will implement access layers. Before proceeding in creating your first CRUD you must understand how the implementation works. **If you didn't follow the implementation pattern, I will delete your code. also, you must order 1pc chicken mcdo :poultry_leg: for each member of this project.**  | Content Cell
+First Header 
+-------------
+We will implement access layers. Before proceeding in creating your first CRUD you must understand how the implementation works. **If you didn't follow the implementation pattern, I will delete your code. also, you must order 1pc chicken mcdo :poultry_leg: for each member of this project.**
 Content Cell  | Content Cell
 
 :heavy_exclamation_mark: Don't make your code complicated. remove unnecessary the comments make your code clean as possible. **If the code is not useful delete it.**
