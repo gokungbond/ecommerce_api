@@ -1,6 +1,11 @@
 ## About This Project
 Welcome to this collaboration project. In this project, we will be creating an ecommerce website using Laravel 10 and Vue.js 3. This is the backend (API) of the ecommerce website. We will learning how to propery implement end-points and versioning.
 
+## Requirements
+PHP 8 <br>
+Laravel 10 <br>
+XAMPP/MySQL <br>
+
 ## Installation
 copy the repository: https://github.com/gokungbond/ecommerce_api.git <br>
 composer install
@@ -11,6 +16,8 @@ Review the Test, Controller, Services, Interfaces, AppServiceProvider.
 We will implement access layers. Before your proceed in creating your first CRUD you must understand how the implementation works. If you didn't follow the implementation pattern, I will delete your code. also, you will ordering 1pc chicken mcdo for each member of this project.
 
 Don't make your code complicated. remove unnecessary the comments make your code clean as possible. If the code is not useful delete it.
+
+After creating your CRUD or any business process make sure to provide testing. Always remember, good code is judged by its testing. Always do testing.
 
 ## Project Sponsors
 [Angelo Calualhatian (UI/UX)](https://www.facebook.com/angelo.calualhatian.5)
