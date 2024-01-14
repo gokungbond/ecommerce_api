@@ -29,8 +29,8 @@ Don't make your code complicated. remove unnecessary the comments make your code
 
 After creating your CRUD or any business process make sure to provide testing. Always remember, good code is judged by its testing. Always do testing.
 
-## :loudspeaker: Project Sponsors
-[Angelo Calualhatian (UI/UX)](https://www.facebook.com/angelo.calualhatian.5)
+## :rocket: Project Sponsors
+[Angelo Calualhatian (UI/UX) Project Layout](https://www.facebook.com/angelo.calualhatian.5)
 
 ## :memo: Resources
 [Project Layout](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.figma.com%2Ffile%2F2mVJhu0w441lm1i4hu9SDk%2FHome-website%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DLgUN5b2x63kUIJUV-1%26fbclid%3DIwAR2cxJdrMOS0XWZYc7RpSpsipZfIbcWzmKgd-9p5BOcIw-a8PgYOsSLYFnk&h=AT2G4lf5FyNm_5lWYz-yzFNQY4re-qdbwOHF3CmpmmYImQZBZTPtNi_DaBDqk5ekZVTkPL9EKT2EwBbvCajQ-It4UWW8etlKfP85U1w593vw5ywHT1Eq0nxnLi19XGpI1KFYIw) <br>
