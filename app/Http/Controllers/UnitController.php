@@ -2,14 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Unit;
-use Illuminate\Http\Response;
 use App\Traits\HasApiResponses;
-use App\Http\Requests\StoreUnitRequest;
-use App\Http\Requests\UpdateUnitRequest;
 use App\Http\Requests\StoreCategoryRequest;
 use App\Http\Requests\UpdateCategoryRequest;
 use App\Interfaces\MasterData\UnitInterface;
+use Illuminate\Http\Response;
 
 class UnitController extends Controller
 {
