@@ -3,9 +3,9 @@
 namespace App\Services\MasterData;
 
 use App\Models\MasterData\Product;
-use App\interface\MasterData\ProductInterface;
+use App\Interfaces\MasterData\ProductInterface;
 
-class productService implements ProductInterface{
+class ProductService implements ProductInterface {
 
     protected Product $model;
 

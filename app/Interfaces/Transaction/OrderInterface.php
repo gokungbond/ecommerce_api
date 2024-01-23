@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Interfaces\MasterData;
+namespace App\Interfaces\Transaction;
 
-interface ProductInterface {
+interface OrderInterface {
     
     public function list();
 
@@ -13,8 +13,6 @@ interface ProductInterface {
     public function update($id, $data);
 
     public function edit($id);
-
-    public function toggleActivation($id);
 
     public function destroy($id);
 
