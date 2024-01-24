@@ -35,12 +35,6 @@ Route::middleware('auth:sanctum')->prefix('v1')->group(function() {
     });
 
     Route::prefix('transaction')->group(function() {
-        //categories route
-        include base_path('routes/MasterDataRoutes/categories.php');
-
-        //products route
-        include base_path('routes/MasterDataRoutes/products.php');
-
         //product prices route
         include base_path('routes/TransactionRoutes/orders.php');
 
