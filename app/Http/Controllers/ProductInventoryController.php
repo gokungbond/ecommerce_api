@@ -6,7 +6,7 @@ use App\Models\MasterData\ProductInventory;
 
 class ProductInventoryController extends Controller
 {
-    public function toggleActivation(ProductInventory $id) 
+    public function toggleActivation(ProductInventory $productInventory) 
     {
 
     }

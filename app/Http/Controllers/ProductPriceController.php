@@ -8,7 +8,7 @@ use App\Http\Requests\UpdateProductPriceRequest;
 
 class ProductPriceController extends Controller
 {
-    public function toggleActivation(ProductPrice $id) 
+    public function toggleActivation(ProductPrice $productPrice) 
     {
 
     }
