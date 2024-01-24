@@ -14,9 +14,9 @@ interface ProductInterface {
 
     public function edit($id);
 
-    public function toggleActivation($id);
-
     public function destroy($id);
+    
+    public function toggleActivation($id);
 
     public function export();
 

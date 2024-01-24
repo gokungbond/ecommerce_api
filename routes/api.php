@@ -16,15 +16,36 @@ use Illuminate\Support\Facades\Route;
 
 Route::middleware('auth:sanctum')->prefix('v1')->group(function() {
 
-
     Route::prefix('admin')->group(function() {
 
+        Route::prefix('master_data')->group(function() {
+            //categories route
+            include base_path('routes/MasterDataRoutes/categories.php');
+
+            //products route
+            include base_path('routes/MasterDataRoutes/products.php');
+
+            //product prices route
+            include base_path('routes/MasterDataRoutes/product_prices.php');
+
+            //product inventories route
+            include base_path('routes/MasterDataRoutes/product_inventories.php');
+        });
+
+    });
+
+    Route::prefix('transaction')->group(function() {
         //categories route
-        include base_path('routes/apiRoutes/categories.php');
+        include base_path('routes/MasterDataRoutes/categories.php');
 
         //products route
-        include base_path('routes/apiRoutes/products.php');
+        include base_path('routes/MasterDataRoutes/products.php');
 
+        //product prices route
+        include base_path('routes/TransactionRoutes/orders.php');
+
+        //product inventories route
+        include base_path('routes/TransactionRoutes/order_lines.php');
     });
 
 });

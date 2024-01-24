@@ -48,4 +48,14 @@ class ProductService implements ProductInterface {
         $this->model->destroy($id);
 
     }
+
+    public function toggleActivation($id)
+    {
+        
+    }
+
+    public function export()
+    {
+        
+    }
 }
