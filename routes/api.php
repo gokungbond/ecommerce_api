@@ -35,10 +35,10 @@ Route::middleware('auth:sanctum')->prefix('v1')->group(function() {
     });
 
     Route::prefix('transaction')->group(function() {
-        //product prices route
+        //order route
         include base_path('routes/TransactionRoutes/orders.php');
 
-        //product inventories route
+        //order lines route
         include base_path('routes/TransactionRoutes/order_lines.php');
     });
 
